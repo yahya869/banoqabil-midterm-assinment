@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+}
+
+.cantainer{
+    width: 88%;
+    height: auto;
+    margin: 0px 6%;
+}
+.first{
+    height: 600px;
+    width: 100%;
+    background-repeat:no-repeat ;
+    background-image: linear-gradient(100deg, rgba(76, 76, 77, 0.575), rgba(179, 179, 180, 0.452), rgba(76, 76, 77, 0.295)),  url(https://media.istockphoto.com/id/1257563298/photo/fashion-clothes-on-a-rack-in-a-light-background-indoors-place-for-text.webp?a=1&b=1&s=612x612&w=0&k=20&c=ri1xGnjxtuwMtM68up9zoD4lf3uGErextc81g8BCP2Y=);
+    background-size: 100%;
+    padding: 20% 30%;
+    color: gray;
+    text-align: center;
+}
+.first h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.first a{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(76, 76, 77);
+    padding: 8px 20px;
+    border-radius: 6px;
+}
+.first a:hover{
+    background-color: gray;
+}
+.second{
+    /* background-color: blue; */
+    height: 600px;
+    width: 100%;
+    margin-top: 10px;
+}
+.firstimg1{
+    margin: 10px 10px 10px 0px;
+    width: 50%;
+    height: 580px;
+    float: left;
+    box-shadow:  0px 0px 6px 0px rgb(172, 172, 172);
+
+}
+
+.firstimg2{
+    margin: 10px 0px 10px 13px;
+    width: 48%;
+    height: 280px;
+    float: left;
+    box-shadow:  0px 0px 6px 0px rgb(172, 172, 172);
+
+}
+.firstimg3{
+    margin: 10px 0px 10px 13px;
+    width: 48%;
+    height: 280px;
+    float: left;
+    box-shadow:  0px 0px 6px 0px rgb(172, 172, 172);
+
+}
+/* .third{
+    width: 100%;
+    height: 600px;
+    padding: 40px 10px 0px 10px;
+    background-color: aqua;
+} */
+
+.third{
+    /* background-color: rgb(217, 223, 223); */
+    width: 100%;
+    height: 500px;
+    padding: 5% 5%;
+}
+#see-all-product {
+    color: white;
+    text-decoration: none;
+    background-color: rgb(76, 76, 77);
+    padding: 8px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+#see-all-product:hover{
+    background-color: gray;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    width: 21%;
+    height: 320px;
+    float: left;
+    margin: 30px 20px;
+    border-radius: 10px;
+    /* box-shadow:  0px 0px 6px 0px rgb(172, 172, 172); */
+
+}
+.box:hover{
+    box-shadow:  0px 0px 10px 0px rgb(172, 172, 172);
+    height: 325px;
+    width: 22%;
+    border-radius: 10px 10px 10px 10px;
+
+}
+.box img{
+    width: 100%;
+    height: 75%;
+    border-radius: 10px;
+}
+.box img:hover{
+    border-radius: 10px 10px 0px 0px;
+
+}
+.span1{
+    width: 50%;
+    height: 25%;
+    padding:20px 0px 0px 30px;
+    /* padding-top: 60px; */
+    float: left;
+}
+.span2{
+    width: 50%;
+    height: 25%;
+    padding:20px 0px 0px 30px;
+    /* padding-top: 60px; */
+    float: left;
+}
+.third a{
+    color: black;
+}
+
+.fourth{
+    width: 100%;
+    /* background-color: aquamarine; */
+    padding: 1% 6% 6%;
+    height: auto;
+    
+}
+.fourth center{
+    padding: 10px 0px;
+    margin: 10px;
+}
+.fourth h3{
+    padding: 10px 0px;
+    margin: 10px;
+}
+.fourth p{
+    padding: 10px 0px;
+    margin: 10px;
+}
+
+.fourth button{
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(76, 76, 77);
+    padding: 8px 20px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.fourth button:hover{
+    background-color: gray;
+}
+/* Home End */
