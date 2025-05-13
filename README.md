@@ -19,12 +19,13 @@ Orders: From the order page, the admin can see the orders. And can respond to th
 From the remaining pages (options), the admin can manage the pages that the client is seeing.
 
 Team Lead Member 01:- 
+
 Name                           : Muhammad Yahya
 Id                             : 288284
 GitHub Midterm Repository Link :   https://github.com/yahya869/banoqabil-midterm-assinment
 Netlify Diplomat Link:   https://clothes-shopping-store.netlify.app/
 video Link :   https://go.screenpal.com/watch/cThXFcnQmsm
-Linkdin Link : 
+Linkdin Post Link : https://www.linkedin.com/posts/muhammad-yahya-19146a28a_creating-a-front-end-website-using-html-and-activity-7328128908090904580--TV9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYw-n0Bq-BGI8DY4wJOCiCa_1PcPDk--sU
 
 Team Member 02 :-
 Not available
